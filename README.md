@@ -2,7 +2,7 @@
 
 Made by 박수현  
 feedback email : qkrtrngus211@naver.com  
-Version : 1.0v  
+Version : 1.01v  
 
 해당 버전은 CentOS7 을 기준으로 제작되었습니다.  ubuntu 또는 타 리눅스에서는 정상진단이 불가능 할 수 있습니다.
 "2021 KISA 주요정보통신기반시설 기술적 취약점 분석/평가 가이드" (이하 주정통 이라고 칭함)의 
